@@ -1,4 +1,4 @@
-import SongList from './songList';
+import SongList from './SongList';
 
 const App = () => {
     return (
